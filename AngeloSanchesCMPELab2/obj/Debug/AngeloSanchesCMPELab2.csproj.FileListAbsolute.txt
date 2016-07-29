@@ -1,0 +1,13 @@
+C:\Users\Angelo\Desktop\CMPE1700\CMPE1600\AngeloSanchesCMPELab2\AngeloSanchesCMPELab2\bin\Debug\AngeloSanchesCMPELab2.exe.config
+C:\Users\Angelo\Desktop\CMPE1700\CMPE1600\AngeloSanchesCMPELab2\AngeloSanchesCMPELab2\bin\Debug\AngeloSanchesCMPELab2.exe
+C:\Users\Angelo\Desktop\CMPE1700\CMPE1600\AngeloSanchesCMPELab2\AngeloSanchesCMPELab2\bin\Debug\AngeloSanchesCMPELab2.pdb
+C:\Users\Angelo\Desktop\CMPE1700\CMPE1600\AngeloSanchesCMPELab2\AngeloSanchesCMPELab2\bin\Debug\GDIDrawer.dll
+C:\Users\Angelo\Desktop\CMPE1700\CMPE1600\AngeloSanchesCMPELab2\AngeloSanchesCMPELab2\obj\Debug\AngeloSanchesCMPELab2.Form1.resources
+C:\Users\Angelo\Desktop\CMPE1700\CMPE1600\AngeloSanchesCMPELab2\AngeloSanchesCMPELab2\obj\Debug\AngeloSanchesCMPELab2.Properties.Resources.resources
+C:\Users\Angelo\Desktop\CMPE1700\CMPE1600\AngeloSanchesCMPELab2\AngeloSanchesCMPELab2\obj\Debug\AngeloSanchesCMPELab2.csproj.GenerateResource.Cache
+C:\Users\Angelo\Desktop\CMPE1700\CMPE1600\AngeloSanchesCMPELab2\AngeloSanchesCMPELab2\obj\Debug\AngeloSanchesCMPELab2.exe
+C:\Users\Angelo\Desktop\CMPE1700\CMPE1600\AngeloSanchesCMPELab2\AngeloSanchesCMPELab2\obj\Debug\AngeloSanchesCMPELab2.pdb
+C:\Users\Angelo\Desktop\CMPE1700\CMPE1600\AngeloSanchesCMPELab2\AngeloSanchesCMPELab2\obj\Debug\AngeloSanchesCMPELab2.SpeedModel.resources
+C:\Users\Angelo\Desktop\CMPE1700\CMPE1600\AngeloSanchesCMPELab2\AngeloSanchesCMPELab2\obj\Debug\AngeloSanchesCMPELab2.csprojResolveAssemblyReference.cache
+C:\Users\Angelo\Desktop\CMPE1700\CMPE1600\AngeloSanchesCMPELab2\AngeloSanchesCMPELab2\obj\Debug\AngeloSanchesCMPELab2.DrawModel.resources
+C:\Users\Angelo\Desktop\CMPE1700\CMPE1600\AngeloSanchesCMPELab2\AngeloSanchesCMPELab2\obj\Debug\AngeloSanchesCMPELab2.PatternModel.resources
